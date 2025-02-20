@@ -2,21 +2,19 @@
   <MonoDevelop.Ide.ItemProperties.StaticExercise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExercise/CarLot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Classes-Exercise/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/Program.cs">
     <Files>
-      <File FileName="../Classes-Exercise/Classes/Car.cs" Line="4" Column="2" />
-      <File FileName="../Classes-Exercise/Classes/Program.cs" Line="1" Column="1" />
-      <File FileName="StaticExercise/Program.cs" Line="1" Column="1" />
+      <File FileName="../Classes-Exercise/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/CarLot.cs" Line="18" Column="72" />
+      <File FileName="../Classes-Exercise/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/Car.cs" Line="38" Column="10" />
+      <File FileName="../Classes-Exercise/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/Program.cs" Line="79" Column="2" />
       <File FileName="StaticExercise/TempConverter.cs" Line="1" Column="1" />
-      <File FileName="StaticExercise/CarLot.cs" Line="1" Column="9" />
+      <File FileName="StaticExercise/Program.cs" Line="17" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StaticExercise" expanded="True">
-            <Node name="StaticExercise" expanded="True">
-              <Node name="CarLot.cs" selected="True" />
-            </Node>
+            <Node name="CarLotSimulator" selected="True" />
           </Node>
         </State>
       </Pad>
